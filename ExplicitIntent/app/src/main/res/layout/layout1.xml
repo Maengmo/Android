@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/schedule1"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#FBE200"
+        android:gravity="center"
+        android:text="Schedule APP"
+        android:textColor="#FFFFFF"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/Button03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#79FDD835"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+        android:text="Login"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/layout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/Button02"
+            android:layout_width="204dp"
+            android:layout_height="wrap_content"
+            android:background="#79FDD835"
+            android:text="메모장"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/Button01"
+            android:layout_width="215dp"
+            android:layout_height="wrap_content"
+            android:background="#79FDD835"
+            android:textColor="#FFFFFF"
+            android:text="달력(일정)"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/layout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/Button04"
+            android:layout_width="204dp"
+            android:layout_height="wrap_content"
+            android:background="#79FDD835"
+            android:text="연락처"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/Button05"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#79FDD835"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:text="그림판"
+        android:textSize="20sp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/layout3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/Button06"
+            android:layout_width="204dp"
+            android:layout_height="wrap_content"
+            android:background="#79FDD835"
+            android:text="미니게임"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/Button07"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#79FDD835"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:text="계산기"
+            android:textSize="20sp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/layout4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/Button08"
+            android:layout_width="204dp"
+            android:layout_height="wrap_content"
+            android:background="#79FDD835"
+            android:text="스톱워치"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/Button09"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#79FDD835"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:text="가계부"
+            android:textSize="20sp"/>
+    </LinearLayout>
+    <AnalogClock
+        android:layout_width="match_parent"
+        android:layout_height="221dp" />
+
+    <DigitalClock
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pc01/AndroidStudioProjects/ExplicitIntent/app/src/main/res/drawable/bg_index.xml" value="0.1" />
+        <entry key="..\:/Users/pc01/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/activity_index.xml" value="0.1" />
+        <entry key="..\:/Users/pc01/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/activity_main.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/pc01/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/activity_register.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/pc01/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/gridschedule.xml" value="0.2" />
+        <entry key="..\:/Users/pc01/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/layout1.xml" value="0.2" />
+        <entry key="..\:/Users/pc01/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/layout10.xml" value="0.2" />
+        <entry key="..\:/Users/pc01/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/layout2.xml" value="0.2" />
+        <entry key="..\:/Users/pc01/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/layout3.xml" value="0.264" />
+        <entry key="..\:/Users/pc01/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/layout4.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/pc01/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/layout5.xml" value="0.11684782608695653" />
+        <entry key="..\:/Users/pc01/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/layout6.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/pc01/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/layout7.xml" value="0.12179487179487179" />
+        <entry key="..\:/Users/pc01/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/layout8.xml" value="0.24864130434782608" />
+        <entry key="..\:/Users/pc01/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/layout9.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/pc01/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/row_memo_item.xml" value="0.264" />
+        <entry key="..\:/Users/pc01/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/start.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/skdlt/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/activity_main.xml" value="0.1703125" />
+        <entry key="..\:/Users/skdlt/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/layout1.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/skdlt/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/layout2.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/skdlt/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/layout3.xml" value="0.36496350364963503" />
+        <entry key="..\:/Users/skdlt/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/layout4.xml" value="0.3170289855072464" />
+        <entry key="..\:/Users/skdlt/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/layout5.xml" value="0.3170289855072464" />
+        <entry key="..\:/Users/skdlt/AndroidStudioProjects/ExplicitIntent/app/src/main/res/layout/layout6.xml" value="0.3170289855072464" />
+        <entry key="..\:/document/book/android/android(12)/sources/chap08/ExplicitIntent/app/src/main/res/layout/layout2.xml" value="0.13949275362318841" />
+        <entry key="..\:/document/book/android/android(12)/sources/chap09/ExplicitIntent/app/src/main/res/layout/layout2.xml" value="0.2046875" />
+        <entry key="..\:/documents/Book/android/android 12.0/sources/chap08/ExplicitIntent/app/src/main/res/layout/layout2.xml" value="0.22083333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
