@@ -1,0 +1,116 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:background="@drawable/banner"
+    android:gravity="center"
+    android:textColor="@color/purple_500"
+    android:textSize="34sp"
+    android:textStyle="bold" />
+
+<TextView
+android:layout_width="match_parent"
+android:layout_height="30dp"
+android:background="#FF9BBD"
+android:gravity="center"
+android:text="맛집,카페-제주-동부"
+android:textColor="@color/black"
+android:textSize="20sp"
+android:textStyle="bold" />
+
+<LinearLayout
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+    />
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_gravity="center"
+android:orientation="horizontal">
+
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:background="@drawable/f_east" />
+</LinearLayout>
+
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_gravity="center"
+android:orientation="horizontal">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:background="#FF9BBD"
+    android:gravity="center"
+    android:text="아줄레주"
+    android:textColor="@color/black"
+    android:textSize="34sp"
+    android:textStyle="bold" />
+</LinearLayout>
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_gravity="center"
+android:orientation="horizontal">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@color/white"
+    android:gravity="center"
+    android:text="시그니처 메뉴 : 에그타르트, 제주낑깡청 티, 제주낑깡청 에이드 "
+    android:textColor="@color/black"
+    android:textSize="15sp"
+    android:textStyle="bold" />
+</LinearLayout>
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_gravity="center"
+android:orientation="horizontal">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:background="@color/white"
+    android:gravity="center"
+    android:text="#노키즈존 #포르투갈카페 #조용한카페 #분위기맛집 #빵맛집 #음료맛집 #타르트 #친절"
+    android:textColor="@color/black"
+    android:textSize="15sp"
+    android:textStyle="bold" />
+</LinearLayout>
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_gravity="center"
+android:orientation="horizontal">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:gravity="center"
+    android:text="위치 : 제주 서귀포시 성산읍 신풍리 627"
+    android:textColor="@color/black"
+    android:textSize="20sp"
+    android:textStyle="bold" />
+</LinearLayout>
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_gravity="center"
+android:orientation="horizontal">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:gravity="center"
+    android:text="운영시간 : 11:00 - 19:00 "
+    android:textColor="@color/black"
+    android:textSize="20sp"
+    android:textStyle="bold" />
+</LinearLayout>
+    </LinearLayout>
